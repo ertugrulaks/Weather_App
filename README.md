@@ -7,4 +7,5 @@
 The sample code in this repository shows how to use the Fetch API to retrieve data from a server or send data to a server. The code covers basic scenarios such as retrieving JSON data or submitting a form to a server.
 
 <h2>Screenshot</h2>
-![](ekran.gif)
+
+![](Ekran.gif)
